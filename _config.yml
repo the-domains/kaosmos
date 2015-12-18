@@ -1,0 +1,28 @@
+name: kaosmos
+favicon: null
+layout_spectrum: 0.6941666533239186
+typography_spectrum: 0.2970814702566713
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.6151386734563857
+  lightness: 0.30880070570856333
+  saturation: 0.7298245376441628
+  rhythmicContrast: 0.9521388933062553
+purpose: []
