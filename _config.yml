@@ -1,6 +1,6 @@
 name: kaosmos
 favicon: null
-layout_spectrum: 0.53955
+layout_spectrum: 0.75843
 typography_spectrum: 0.81114
 title: "kaosmos' grid"
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.6151386734563857
-  lightness: 0.30880070570856333
-  saturation: 0.7298245376441628
+    - '#0d0c08'
+    - '#878e98'
+    - '#4c4034'
+    - '#a6a9ae'
+    - '#e2e0e5'
+  brandStrength: 1
+  lightness: 0
+  saturation: 1
   rhythmicContrast: 0.9521388933062553
 purpose: []
