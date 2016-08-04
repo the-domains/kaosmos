@@ -1,20 +1,4 @@
-name: kaosmos
-favicon: null
-layout_spectrum: 0
 typography_spectrum: 0.74586
-title: "kaosmos' grid"
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#cc0000'
@@ -26,4 +10,21 @@ color:
   lightness: 0.5
   saturation: 0
   rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: kaosmos
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: kaosmos' grid
+description: 'Web design, photography, tinkering and other misha'
 purpose: []
