@@ -1,10 +1,11 @@
 ---
-datePublished: '2016-08-04T18:47:20.200Z'
+datePublished: '2016-08-04T18:48:20.586Z'
 sourcePath: _posts/2016-08-04-lorem-ipsum.md
 inFeed: true
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-04T18:47:19.617Z'
+dateModified: '2016-08-04T18:48:19.751Z'
 title: Lorem ipsum
 publisher: {}
 description: >-
@@ -19,7 +20,8 @@ description: >-
   lorem quis, mollis ligula. Phasellus et efficitur erat. Cras eu porta neque.
   Quisque suscipit nisl vitae odio egestas convallis. Nunc id quam sodales,
   suscipit mi nec, efficitur elit.
-starred: false
+starred: true
+url: lorem-ipsum/index.html
 _context: 'http://schema.org'
 _type: Article
 
