@@ -19,12 +19,17 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: Matteo Nicoletti
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/fd145802-8ef6-4d57-9131-c3e80554b919.png
 name: kaosmos
 cta:
   domain: null
   bucket: null
   version: null
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/69f66cef-b54b-4659-9542-faa2d4a4421b.png
 title: il domatore di div
 description: >-
   Web design, fotografia, sperimentazioni e altri accidenti. Sopratutto altri
