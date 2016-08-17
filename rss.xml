@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[il domatore di div]]></title>
         <description><![CDATA[il domatore di div]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kaosmos/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Aug 2016 18:48:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 17 Aug 2016 15:29:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kaosmos/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Lorem ipsum]]></title>
             <description><![CDATA[<article><h1>Lorem ipsum</h1><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc placerat lectus eu purus sagittis euismod. Morbi tempor nulla eget nisi pharetra, et molestie orci dapibus. Cras posuere posuere venenatis. Cras gravida ut libero sit amet laoreet. In id mi sit amet nibh accumsan vulputate. Phasellus ornare malesuada nunc, eu ullamcorper nisl efficitur et. Vivamus laoreet in ligula sit amet suscipit. Suspendisse eget sapien quis ligula dapibus ornare nec ut leo. Cras dignissim enim eu nibh consectetur, eget vulputate sem luctus. Curabitur pellentesque justo vel accumsan suscipit. Aenean et ipsum varius, fringilla lorem quis, mollis ligula. Phasellus et efficitur erat. Cras eu porta neque. Quisque suscipit nisl vitae odio egestas convallis. Nunc id quam sodales, suscipit mi nec, efficitur elit.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/042e2bda-7892-4d3c-90e7-8b2fefb81f4e.jpg"></article>]]></description>
-            <link>undefinedlorem-ipsum/index.html</link>
+            <link>https://thegrid.ai/kaosmos/lorem-ipsum/index.html</link>
             <guid isPermaLink="false">55c2df17-76bb-4d0c-bfe8-fe8095d52e02</guid>
-            <pubDate>Thu, 04 Aug 2016 18:48:20 GMT</pubDate>
+            <pubDate>Wed, 17 Aug 2016 15:29:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
