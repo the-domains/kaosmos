@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-04T18:48:20.586Z'
+datePublished: '2016-08-17T15:29:22.265Z'
 sourcePath: _posts/2016-08-04-lorem-ipsum.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-04T18:48:19.751Z'
+dateModified: '2016-08-17T15:29:20.981Z'
 title: Lorem ipsum
 publisher: {}
 description: >-
