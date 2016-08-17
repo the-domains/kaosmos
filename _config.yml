@@ -31,7 +31,7 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: my website
+  - name: my web site
     url: 'http://kaosmos.it'
     type: external
 favicon: >-
