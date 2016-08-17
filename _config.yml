@@ -34,6 +34,9 @@ navigation:
   - name: my web site
     url: 'http://kaosmos.it'
     type: external
+  - name: my Tumblr
+    url: 'http://tumblr.kaosmos.it/'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/69f66cef-b54b-4659-9542-faa2d4a4421b.png
 title: il domatore di div
