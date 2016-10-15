@@ -43,7 +43,4 @@ favicon: >-
 title: kaosmos
 content: []
 description: kaosmos placeholder
-purpose:
-  - type: external
-    url: 'https://twitter.com/kaosmos'
-    label: '@kaosmos'
+purpose: []
