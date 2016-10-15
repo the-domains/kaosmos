@@ -40,4 +40,7 @@ favicon: >-
 title: Web Appreciation Society
 content: []
 description: 'web design, sperimentazioni e altri accidenti. sopratutto altri accidenti.'
-purpose: []
+purpose:
+  - type: external
+    url: 'https://twitter.com/kaosmos'
+    label: '@kaosmos'
