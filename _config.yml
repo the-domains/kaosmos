@@ -1,46 +1,43 @@
-typography_spectrum: 0.16034803842194378
+typography_spectrum: 0.20572865940630436
 color:
   brandColors:
-    - '#B8BFB7'
-    - '#90A199'
-    - '#62967F'
-    - '#054D41'
-    - '#556F6C'
-  brandStrength: 0.17097348417155445
-  lightness: 0.502214768435806
-  saturation: 0.9388478810433298
-  rhythmicContrast: 0.47337024426087737
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+  brandStrength: 0.2864918529521674
+  lightness: 0.35888218227773905
+  saturation: 0.5312398113310337
+  rhythmicContrast: 0.26111275190487504
+github: true
 opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 0.713987217284739
+layout_spectrum: 0.2154953998979181
 analytics:
-  google: null
+  google: UA-465253-12
   facebook: null
   twitter: null
 author:
   name: Matteo Nicoletti
   email: matteo@kaosmos.it
-  url: 'https://thegrid.ai/kaosmos/'
+  url: 'https://thegrid.ai/was'
 logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/fd145802-8ef6-4d57-9131-c3e80554b919.png
-name: kaosmos
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/dc4e6111-6986-413b-9f60-1c16388cf7b9.png
+name: WAS
 cta:
   domain: null
   bucket: null
   version: null
 navigation:
-  - name: my web site
-    url: 'http://kaosmos.it'
-    type: external
-  - name: my Tumblr
-    url: 'http://tumblr.kaosmos.it/'
+  - name: about.me
+    url: 'https://about.me/matteo.nicoletti'
     type: external
 favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/69f66cef-b54b-4659-9542-faa2d4a4421b.png
-title: il domatore di div
-description: >-
-  web design, fotografia, sperimentazioni e altri accidenti. sopratutto altri
-  accidenti.
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f3ce31b2-b91a-4dd1-a81b-297bbfcbcd70.ico
+title: Web Appreciation Society
+content: []
+description: 'web design, sperimentazioni e altri accidenti. sopratutto altri accidenti.'
 purpose: []
