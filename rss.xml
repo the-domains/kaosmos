@@ -4,22 +4,22 @@
         <description><![CDATA[Web Appreciation Society]]></description>
         <link>https://thegrid.ai/was/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 15 Oct 2016 15:56:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Oct 2016 15:56:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/was/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 15 Oct 2016 15:56:25 GMT</pubDate>
+        <pubDate>Sat, 15 Oct 2016 15:56:55 GMT</pubDate>
+        <item>
+            <title><![CDATA[Web Appreciation Society]]></title>
+            <description><![CDATA[<article><h1>Web Appreciation Society</h1><p>Questo è il nome del mio ennesimo nuovo blog sull’ennesima nuova piattaforma.E prima che ve lo chiediate, gli altri n-1 blog non ci sono perché non ne ho mai portati avanti nessuno. Ma sono molto bravo ad iniziarli.Però, hai visto mai che questa sia la volta buona?</p></article>]]></description>
+            <link>https://thegrid.ai/was/web-appreciation-society/index.html</link>
+            <guid isPermaLink="false">b78ae3b9-82c1-4d93-bd5a-8001789f47cf</guid>
+            <pubDate>Sat, 15 Oct 2016 15:56:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[kaosmos]]></title>
             <description><![CDATA[<article><h1>kaosmos</h1><p>kaosmos on hotglue.me</p></article>]]></description>
             <link>https://kaosmos.hotglue.me</link>
             <guid isPermaLink="false">e7f41f3f-5d8e-4ed9-ae55-ddd0b5843579</guid>
             <pubDate>Sat, 15 Oct 2016 15:56:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Web Appreciation Society]]></title>
-            <description><![CDATA[<article><h1>Web Appreciation Society</h1><p>Questo è il nome del mio ennesimo nuovo blog sull’ennesima nuova piattaforma.E prima che ve lo chiediate, gli altri n-1 blog non ci sono perché non ne ho mai portati avanti nessuno. Ma sono molto bravo ad iniziarli.Però, hai visto mai che questa sia la volta buona?</p></article>]]></description>
-            <link>https://thegrid.ai/was/web-appreciation-society/index.html</link>
-            <guid isPermaLink="false">b78ae3b9-82c1-4d93-bd5a-8001789f47cf</guid>
-            <pubDate>Sun, 09 Oct 2016 02:25:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
