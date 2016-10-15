@@ -35,6 +35,9 @@ navigation:
   - name: about.me
     url: 'https://about.me/matteo.nicoletti'
     type: external
+  - name: Web Appreciation Society
+    id: b78ae3b9-82c1-4d93-bd5a-8001789f47cf
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/f3ce31b2-b91a-4dd1-a81b-297bbfcbcd70.ico
 title: Web Appreciation Society
